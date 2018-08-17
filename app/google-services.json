@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "330768492749",
+    "firebase_url": "https://newproject-5418f.firebaseio.com",
+    "project_id": "newproject-5418f",
+    "storage_bucket": "newproject-5418f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330768492749:android:6371883d55fb6f3c",
+        "android_client_info": {
+          "package_name": "com.praveen.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330768492749-24t8sr2uj95q8rn4982s395je11vemdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARMPStMvqWTVDUhDMp0xPzMx9G8qGXLdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
